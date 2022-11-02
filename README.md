@@ -1,6 +1,6 @@
 ### :four_leaf_clover: Hi there :four_leaf_clover:
 
-![hon9g's GitHub stats](https://github-readme-stats.vercel.app/api?username=hon9g&show_icons=true&theme=radical)
+![hon9g's GitHub stats](https://github-readme-stats.vercel.app/api?username=hon9g&show_icons=true&theme=blueberry)
 
 <!--
 **hon9g/hon9g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
